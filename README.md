@@ -1,6 +1,63 @@
-# 💫 About Me:
-🚧 Currently Working On<br>I'm actively learning and building projects using Unity and Flutter, and planning to combine both platforms in a fun and creative way!<br><br>🎮 Unity – Game Development<br> Create endless runner base system<br><br> Add procedural chunk generation<br><br> Implement obstacle and coin system<br><br> Add distance and score UI tracking<br><br> Polish gameplay and add visual effects<br><br>💡 Learning: Unity UI System (Canvas, Buttons, Panels, TextMeshPro)<br><br>📱 Flutter – Mobile App Development<br> Create multi-page navigation (Home, About Us, Feedback)<br><br> Add TikTok Video Downloader UI<br><br> Improve UX with animations and custom themes<br><br> Connect Flutter app with backend or Firebase<br><br>🔄 Mixing Both Worlds – Flutter + Unity<br> Learn how to connect Flutter app with Unity game<br><br> Create a mobile companion app for Unity game<br><br> Try data sharing between apps<br><br> Research hybrid project ideas (e.g., leaderboard, remote game controller)<br><br>📚 Currently Learning<br>Intermediate Flutter topics (state management, animations, REST API)<br><br>Unity UI system and event handling<br><br>Git & GitHub for real-world project management<br><br>🏅 Tech Stack<br><br><br><br><br><br>✨ Goal<br>Learn both tools deeply, then combine Unity’s power with Flutter’s beauty to build unique interactive apps & games.<br><br>
+# 💫 About Me
 
+Hi there! 👋 I'm currently learning and building with **Unity** and **Flutter**, working on creative projects — and planning to **combine both platforms** into something fun and innovative! 🎨🚀
+
+---
+
+## 🚧 Currently Working On
+
+### 🎮 Unity – Game Development
+I'm developing a **Temple Run–style endless runner game** with features like:
+- ✅ Base system for player movement
+- ✅ Procedural chunk generation
+- ⬜ Obstacle and coin system
+- ⬜ Score and distance UI tracking
+- ⬜ Gameplay polishing and VFX
+
+> 💡 *Currently learning:* Unity UI System – Canvas, Buttons, Panels, TextMeshPro
+
+---
+
+### 📱 Flutter – Mobile App Development
+Working on a multi-page Flutter app that includes:
+- ✅ Navigation: Home, About Us, Feedback
+- ✅ TikTok Video Downloader UI
+- ⬜ Improved UX with animations & themes
+- ⬜ Backend integration (Firebase or REST API)
+
+---
+
+### 🔄 Mixing Both Worlds – Flutter + Unity
+Experimenting with ideas that combine both platforms:
+- ⬜ Connect Flutter app with Unity game
+- ⬜ Build companion apps (like scoreboards, remote controls)
+- ⬜ Share data between apps
+- ⬜ Hybrid experiments (e.g., leaderboard sync, notifications)
+
+---
+
+## 📚 Currently Learning
+- Flutter intermediate topics: `state management`, `animations`, `REST APIs`
+- Unity UI system and `event handling`
+- Real-world Git & GitHub workflows
+
+---
+
+## 🛠️ Tech Stack
+
+![Unity](https://img.shields.io/badge/Unity-2022.x-black?logo=unity&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&logoColor=white&style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-Game%20Scripting-purple?logo=csharp&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-Cloud%20Messaging-orange?logo=firebase&logoColor=white&style=for-the-badge)
+
+---
+
+## 🎯 Goal
+
+> Learn both tools deeply, then **combine Unity’s power with Flutter’s beauty** to build unique interactive games & apps across platforms 💡📱🎮
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-riaz-351569298/) 
@@ -12,7 +69,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=leekonjk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leekonjk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leekonjk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=leekonjk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=leekonjk&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=leekonjk&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
