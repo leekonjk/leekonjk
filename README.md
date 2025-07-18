@@ -1,45 +1,46 @@
 # 💫 About Me
 
-Hi there! 👋 I'm currently learning and building with **Unity** and **Flutter**, working on creative projects — and planning to **combine both platforms** into something fun and innovative! 🎨🚀
+Hi there! 👋 I'm **Mustafa Riaz**, a passionate developer exploring both **Unity** and **Flutter**. I love turning creative ideas into real projects — and I'm planning to **combine both platforms** to build something innovative, fun, and cross-platform! 🚀🎨
 
 ---
 
-## 🚧 Currently Working On
+## 🚧 Projects I'm Working On
 
 ### 🎮 Unity – Game Development
-I'm developing a **Temple Run–style endless runner game** with features like:
+I'm currently building a **Temple Run–style endless runner** with the following features:
 - ✅ Base system for player movement
 - ✅ Procedural chunk generation
 - ⬜ Obstacle and coin system
-- ⬜ Score and distance UI tracking
-- ⬜ Gameplay polishing and VFX
+- ⬜ Score and distance UI
+- ⬜ Gameplay polishing & visual effects
 
-> 💡 *Currently learning:* Unity UI System – Canvas, Buttons, Panels, TextMeshPro
+> 💡 *Learning:* Unity UI (Canvas, Buttons, Panels, TextMeshPro)
 
 ---
 
 ### 📱 Flutter – Mobile App Development
-Working on a multi-page Flutter app that includes:
-- ✅ Navigation: Home, About Us, Feedback
+Developing a multi-page Flutter app with:
+- ✅ Page navigation: Home, About Us, Feedback
 - ✅ TikTok Video Downloader UI
-- ⬜ Improved UX with animations & themes
+- ⬜ Better UX with animations & themes
 - ⬜ Backend integration (Firebase or REST API)
 
 ---
 
-### 🔄 Mixing Both Worlds – Flutter + Unity
-Experimenting with ideas that combine both platforms:
-- ⬜ Connect Flutter app with Unity game
-- ⬜ Build companion apps (like scoreboards, remote controls)
-- ⬜ Share data between apps
-- ⬜ Hybrid experiments (e.g., leaderboard sync, notifications)
+### 🔄 Unity + Flutter – Hybrid Experiments
+Exploring how to merge Unity and Flutter:
+- ⬜ Connect Unity game with Flutter app
+- ⬜ Companion apps (scoreboard, remote control)
+- ⬜ Share data across platforms
+- ⬜ Sync leaderboards, send push notifications
 
 ---
 
 ## 📚 Currently Learning
-- Flutter intermediate topics: `state management`, `animations`, `REST APIs`
-- Unity UI system and `event handling`
-- Real-world Git & GitHub workflows
+- ✅ State management in Flutter
+- ✅ REST APIs and animations
+- ✅ Unity’s UI & event system
+- ✅ Real-world Git & GitHub workflows
 
 ---
 
@@ -53,28 +54,38 @@ Experimenting with ideas that combine both platforms:
 
 ---
 
-## 🎯 Goal
+## 🎯 My Goal
 
-> Learn both tools deeply, then **combine Unity’s power with Flutter’s beauty** to build unique interactive games & apps across platforms 💡📱🎮
+> Master Unity and Flutter — and then **combine their powers** to build amazing, interactive games and apps across devices. 💡📱🎮
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-riaz-351569298/) 
+## 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-riaz-351569298/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leekonjk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=leekonjk&theme=dark&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=leekonjk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leekonjk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leekonjk&theme=dark&hide_border=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=leekonjk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+---
+
+### 🔝 Top Contributed Repos
+
 ![](https://github-contributor-stats.vercel.app/api?username=leekonjk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=leekonjk&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
