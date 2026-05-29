@@ -101,8 +101,8 @@ Exploring how to merge Unity and Flutter:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leekonjk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leekonjk&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leekonjk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leekonjk&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ Exploring how to merge Unity and Flutter:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leekonjk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leekonjk&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
