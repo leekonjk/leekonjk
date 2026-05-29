@@ -99,22 +99,36 @@ Exploring how to merge Unity and Flutter:
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=leekonjk&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=leekonjk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leekonjk&theme=dark&hide_border=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leekonjk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leekonjk&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leekonjk&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=leekonjk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leekonjk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
+</p>
 
 ---
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=leekonjk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=leekonjk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=leekonjk&icon=1&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leekonjk&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
