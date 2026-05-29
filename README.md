@@ -111,18 +111,10 @@ Exploring how to merge Unity and Flutter:
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leekonjk&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
----
-
-### 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=leekonjk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leekonjk&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
