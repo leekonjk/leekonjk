@@ -1,29 +1,57 @@
 # 💫 About Me
-
-Hi there! 👋 I'm **Mustafa Riaz**, a passionate developer exploring both **Unity** and **Flutter**. I love turning creative ideas into real projects — and I'm planning to **combine both platforms** to build something innovative, fun, and cross-platform! 🚀🎨
+Hi there! 👋 I'm **Mustafa Riaz**, a passionate developer and **CS student at COMSATS University Islamabad, Wah Campus**. I love turning creative ideas into real projects — building games, mobile apps, AI tools, and full-stack web experiences. 🚀🎨
 
 ---
 
 ## 🚧 Projects I'm Working On
 
-### 🎮 Unity – Game Development
-I'm currently building a **Temple Run–style endless runner** with the following features:
+### 🎮 Unity – Temple Run (FYP Game)
+A **Temple Run–style 3D endless runner** built with Unity Engine as my Final Year Project:
 - ✅ Base system for player movement
 - ✅ Procedural chunk generation
-- ⬜ Obstacle and coin system
-- ⬜ Score and distance UI
+- ✅ Obstacle and coin system
+- ✅ Score and distance UI
 - ⬜ Gameplay polishing & visual effects
+- ⬜ Advanced level design & boss obstacles
 
-> 💡 *Learning:* Unity UI (Canvas, Buttons, Panels, TextMeshPro)
+> 💡 *Stack:* Unity, C#, procedural generation
+
+---
+
+### 🎓 FYP – CUI Online (Final Year Project)
+A full-featured **online platform** for COMSATS University:
+- ✅ Core system architecture (C#)
+- ✅ Backend & database integration
+- ⬜ UI/UX polish & deployment
+
+> 💡 *Stack:* C#, .NET
+
+---
+
+### 🤖 AI Study Buddy
+A **mobile app** for students — semester project for Mobile Application Development (BS6):
+- ✅ Core app structure
+- ✅ AI-powered study features
+- ⬜ Advanced AI integration & polish
+
+> 💡 *Stack:* Flutter, Dart, AI APIs
 
 ---
 
 ### 📱 Flutter – Mobile App Development
-Developing a multi-page Flutter app with:
+Multi-page Flutter app with:
 - ✅ Page navigation: Home, About Us, Feedback
 - ✅ TikTok Video Downloader UI
-- ⬜ Better UX with animations & themes
-- ⬜ Backend integration (Firebase or REST API)
+- ✅ Animations & themes
+- ✅ Firebase/REST API integration
+- ⬜ Advanced backend features
+
+---
+
+### 🌐 Portfolio Website
+A personal portfolio built with **TypeScript**:
+- ✅ Live and actively maintained
+- ⬜ Further content & project updates
 
 ---
 
@@ -32,15 +60,18 @@ Exploring how to merge Unity and Flutter:
 - ⬜ Connect Unity game with Flutter app
 - ⬜ Companion apps (scoreboard, remote control)
 - ⬜ Share data across platforms
-- ⬜ Sync leaderboards, send push notifications
+- ⬜ Sync leaderboards, push notifications
 
 ---
 
 ## 📚 Currently Learning
 - ✅ State management in Flutter
 - ✅ REST APIs and animations
-- ✅ Unity’s UI & event system
+- ✅ Unity's UI & event system
 - ✅ Real-world Git & GitHub workflows
+- ✅ Python (scripting & AI tooling)
+- ✅ Node.js & backend development
+- ⬜ Cloud deployment & DevOps basics
 
 ---
 
@@ -49,25 +80,25 @@ Exploring how to merge Unity and Flutter:
 ![Unity](https://img.shields.io/badge/Unity-2022.x-black?logo=unity&logoColor=white&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&logoColor=white&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-Game%20Scripting-purple?logo=csharp&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-Cloud%20Messaging-orange?logo=firebase&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-Game%20%26%20App%20Dev-purple?logo=csharp&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-Web%20Dev-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Scripting%20%26%20AI-yellow?logo=python&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-Cloud%20Services-orange?logo=firebase&logoColor=white&style=for-the-badge)
 
 ---
 
 ## 🎯 My Goal
-
-> Master Unity and Flutter — and then **combine their powers** to build amazing, interactive games and apps across devices. 💡📱🎮
+> Build full-stack, cross-platform experiences — combining **Unity games**, **Flutter apps**, **AI tools**, and **web platforms** to create something truly innovative. 💡📱🎮
 
 ---
 
 ## 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-riaz-351569298/)
 
 ---
 
 ## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=leekonjk&theme=dark&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=leekonjk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leekonjk&theme=dark&hide_border=false&layout=compact)
@@ -75,13 +106,11 @@ Exploring how to merge Unity and Flutter:
 ---
 
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=leekonjk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ### 🔝 Top Contributed Repos
-
 ![](https://github-contributor-stats.vercel.app/api?username=leekonjk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
