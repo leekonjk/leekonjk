@@ -132,12 +132,12 @@ A personal **agentic coding harness** on the Claude Agent SDK — interactive CL
 ## 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leekonjk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leekonjk&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
+  <br/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=leekonjk&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leekonjk&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff" width="95%" />
 </div>
 
 ---
