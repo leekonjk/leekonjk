@@ -1,174 +1,161 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f3460&height=200&section=header&text=Mustafa%20Riaz&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Game%20Developer%20%7C%20Mobile%20Engineer%20%7C%20CS%20Student&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3460,100:1a1b27&height=240&section=header&text=Mustafa%20Riaz&fontSize=64&fontColor=58a6ff&desc=Game%20Developer%20%E2%80%A2%20Unity%20%E2%80%A2%20Multiplayer%20%E2%80%A2%20Mobile&descSize=18&descColor=8b949e&descAlignY=66&animation=twinkling&stroke=58a6ff&strokeWidth=1" width="100%" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Games+%F0%9F%8E%AE+%7C+Building+Apps+%F0%9F%93%B1;Unity+%2B+Flutter+%3D+%E2%9C%A8+Innovation;CS+Student+%40+COMSATS+Islamabad;Turning+ideas+into+real+projects+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=%3E+Building+Layerfall+%E2%80%94+4-player+co-op+extraction;%3E+Shipping+mobile+games+to+Google+Play;%3E+Surviving+zombies+in+isometric+3D;%3E+Freelancing+at+leekon.studio;%3E+Unity+%7C+C%23+%7C+URP+%7C+Relay" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/leekon.studio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://leekon.studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-riaz-351569298/)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leekonjk)
-[![Profile Views](https://komarev.com/ghpvc/?username=leekonjk&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/leekonjk)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafariaz2005@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=leekonjk&style=for-the-badge&color=58a6ff&label=VIEWS)](https://github.com/leekonjk)
+
+![Open to Internships](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to-Remote_Unity_Internships-2ea043?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 `whoami`
 
-```yaml
-name       : Mustafa Riaz
-handle     : leekonjk
-university : COMSATS University Islamabad, Wah Campus
-degree     : BS Computer Science
-focus      : Game Development · Mobile Engineering · Full-Stack
-currently  : Building Temple Run FYP + AI Study Buddy App
-goal       : Merge Unity & Flutter into cross-platform experiences
+```csharp
+public class MustafaRiaz : GameDeveloper
+{
+    public string Handle     => "leekonjk";
+    public string University => "COMSATS University Islamabad, Wah Campus";
+    public string Degree     => "BS Software Engineering (Final Year)";
+    public string Based      => "Wah Cantt, Pakistan 🇵🇰";
+
+    public string[] Engines  => { "Unity" };
+    public string[] Focus    => { "Co-op Multiplayer", "Mobile Games", "Game Feel & Polish" };
+    public string   Studio   => "leekon.studio — freelance";
+
+    public void Learn() => TryIt().BreakIt().FigureItOut();   // trial & error > docs
+}
 ```
 
 ---
 
-## 🚀 Projects
+## 🎮 Games I'm Building
 
-### 🎮 Temple Run — Unity 3D Endless Runner
-> *Final Year Project — C# · Unity Engine · Procedural Generation*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Feature | Status |
-|---|---|
-| Player movement system | ✅ Done |
-| Procedural chunk generation | ✅ Done |
-| Obstacle & coin system | ✅ Done |
-| Score & distance UI | ✅ Done |
-| Visual effects & polish | 🔨 In Progress |
-| Advanced level design | 🔨 In Progress |
+### ⚔️ Layerfall
+**Final Year Project** · with Mohees Ahmed
+
+A co-op **extraction adventure** for up to **4 players** — no swords, no guns. You survive using **ancient artifacts and tools** deep inside layered dungeons.
+
+`Unity 2022 LTS` `URP` `Unity Relay` `C#`
+
+- 🟢 Dungeon environment & lighting
+- 🟢 Online co-op via Relay
+- 🟡 Artifact systems & level design
+- 🟡 Stylized character art pass
+
+</td>
+<td width="50%" valign="top">
+
+### 🧟 Survival
+**Mobile** · Solo
+
+An **isometric 3D zombie survival** game built for phones — scavenge, hold out, don't get bitten.
+
+`Unity` `C#` `Android`
+
+- 🟢 Core concept & isometric setup
+- 🟡 Zombie AI & combat
+- 🟡 Mobile controls & performance
+- ⬜ Google Play release
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ Countdown
+**Game Jam** · theme: *"countdown"*
+
+You have **one break**. Eat, hit the toilet, get back to class — while teachers chase you and friends won't stop talking. **Mash buttons** to escape conversations.
+
+`Unity` `URP` `Cinemachine` `TMP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Dev Harness
+**Side Project** · Tooling
+
+A personal **agentic coding harness** on the Claude Agent SDK — interactive CLI plus a **headless parallel task runner** for my own projects.
+
+`Python` `Claude Agent SDK`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📦 Earlier projects</b></summary>
+<br/>
+
+| Project | Stack | What it is |
+|---|---|---|
+| 🏃 Temple Run Clone | Unity · C# | 3D endless runner with procedural chunk generation, obstacles, coins & score UI |
+| 🎓 CUI Online Platform | C# · .NET | Full-stack university platform with backend & database |
+| 🧠 AI Study Buddy | Flutter · Dart | AI-powered study assistant app |
+| 📱 Flutter Multi-Page App | Flutter · Firebase | Multi-page app with REST API, animations & themes |
+| 🌐 leekon.studio | Node · Vercel | My freelance portfolio site, live on a custom domain |
+
+</details>
 
 ---
 
-### 🎓 FYP — CUI Online Platform
-> *Final Year Project — C# · .NET · Full-Stack*
-
-| Feature | Status |
-|---|---|
-| Core system architecture | ✅ Done |
-| Backend & database integration | ✅ Done |
-| UI/UX polish & deployment | 🔨 In Progress |
-
----
-
-### 🤖 AI Study Buddy
-> *Semester Project — Flutter · Dart · AI APIs*
-
-| Feature | Status |
-|---|---|
-| Core app structure | ✅ Done |
-| AI-powered study features | ✅ Done |
-| Advanced AI integration | 🔨 In Progress |
-
----
-
-### 📱 Flutter Multi-Page App
-> *Mobile App Development — Flutter · Firebase · REST API*
-
-| Feature | Status |
-|---|---|
-| Page navigation (Home, About, Feedback) | ✅ Done |
-| TikTok Video Downloader UI | ✅ Done |
-| Animations & themes | ✅ Done |
-| Firebase / REST API integration | ✅ Done |
-| Advanced backend features | ⬜ Planned |
-
----
-
-### 🌐 Portfolio Website
-> *TypeScript · Live & maintained*
-
-| Feature | Status |
-|---|---|
-| Live deployment | ✅ Done |
-| Content & project updates | 🔨 In Progress |
-
----
-
-### 🔄 Unity + Flutter Hybrid
-> *Experimental — Cross-Platform Integration*
-
-| Feature | Status |
-|---|---|
-| Connect Unity game with Flutter app | ⬜ Planned |
-| Companion scoreboard app | ⬜ Planned |
-| Cross-platform data sharing | ⬜ Planned |
-| Leaderboard sync + push notifications | ⬜ Planned |
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Toolbox
 
 <div align="center">
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)
+**Game Dev**<br/>
+<img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" />
+
+**Apps & Web**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,ts,nodejs,firebase,vercel&theme=dark" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 📈 Stats
 
 <div align="center">
-
-![Flutter State Mgmt](https://img.shields.io/badge/Flutter_State_Management-✅_Done-02569B?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs_%26_Animations-✅_Done-02569B?style=flat-square)
-![Unity UI](https://img.shields.io/badge/Unity_UI_%26_Event_System-✅_Done-000000?style=flat-square)
-![Git Workflows](https://img.shields.io/badge/Git_%26_GitHub_Workflows-✅_Done-F05032?style=flat-square)
-![Python](https://img.shields.io/badge/Python_Scripting_%26_AI-✅_Done-3776AB?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js_Backend-✅_Done-339933?style=flat-square)
-![DevOps](https://img.shields.io/badge/Cloud_%26_DevOps_Basics-🔨_In_Progress-0A0A0A?style=flat-square)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leekonjk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leekonjk&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=leekonjk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leekonjk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leekonjk&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=leekonjk&theme=tokyonight&hide_border=true" />
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leekonjk&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff" width="95%" />
 </div>
 
 ---
 
-## 🎯 Goal
-
 <div align="center">
 
-> *"Master Unity and Flutter — then combine their powers to build interactive games*
-> *and apps that run everywhere. From mobile screens to game engines, one codebase at a time."*
->
-> — **Mustafa Riaz**
+### 🐍 Watch my contributions get eaten
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leekonjk/leekonjk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leekonjk/leekonjk/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/leekonjk/leekonjk/output/github-snake-dark.svg" />
+</picture>
 
----
+<br/><br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1b27,100:0d1117&height=100&section=footer" width="100%" />
+> *"Every great game started as a broken prototype."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:0f3460,100:0d1117&height=110&section=footer" width="100%" />
+
 </div>
